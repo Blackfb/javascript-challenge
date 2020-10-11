@@ -1,4 +1,4 @@
-# JavaScript Project - JavaScript and DOM Manipulation...............
+# JavaScript Project - JavaScript and DOM Manipulation
 
 ## Background
 
